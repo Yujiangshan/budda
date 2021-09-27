@@ -1,0 +1,22 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-fold",
+    "note-composer:split-file"
+  ],
+  "attachmentFolderPath": "docs",
+  "communityPluginSortOrder": "download",
+  "readableLineLength": false,
+  "showFrontmatter": true
+}

@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "3950268372f36259",
+    "type": "split",
+    "children": [
+      {
+        "id": "79af21f45eba443a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "起信論直解.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6367a548530ffcf5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0f531e2b2d2c73bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9a28a20d5819126c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e9f44e636ed5b30f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "423899c143260658",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c1d949a70c805347",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "caccc9290ca38b2c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d36a79302b1c9bfa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "起信論直解.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8485ea7bc6871173",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "起信論直解.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "79af21f45eba443a",
+  "lastOpenFiles": [
+    "起信論直解.md",
+    "docs/大乘起信論略圖.jpg",
+    "大乘起信論略圖.jpg.md",
+    "圓覺經直解.md",
+    "docs/2021-09-23.md",
+    "金刚经解义.md",
+    "六祖大師法寶壇經.md",
+    "愣伽经德清注.md",
+    "释义/阿賴耶識.md",
+    "未命名.md"
+  ]
+}
