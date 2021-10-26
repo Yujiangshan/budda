@@ -18,5 +18,6 @@
   "attachmentFolderPath": "docs",
   "communityPluginSortOrder": "download",
   "readableLineLength": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "defaultViewMode": "preview"
 }
