@@ -19,5 +19,8 @@
   "communityPluginSortOrder": "download",
   "readableLineLength": false,
   "showFrontmatter": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "livePreview": true,
+  "emacsyKeys": true
 }

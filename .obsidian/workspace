@@ -1,141 +1,136 @@
 {
   "main": {
-    "id": "3950268372f36259",
+    "id": "4184f3e901cac386",
     "type": "split",
     "children": [
       {
-        "id": "79af21f45eba443a",
+        "id": "bf78d161d1659efd",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "起信論直解.md",
             "mode": "source"
-          },
-          "pinned": true
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c2d32d1e9241e324",
-    "type": "split",
+    "id": "5dda7ac846590b97",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8e5bf1cf674c8247",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be706825d40b6d43",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b90c885b123c5ac9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "6c8f9ea8ee3e9f63",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "e50b51a0421645b2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ce2d29619446265c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "54480210663b9388",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a67aa6daca64aff6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "79a829cf230415e0",
-    "type": "split",
+    "id": "3206971179f1a63c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5bbf32a783ee04f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5f95320c9ccab593",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "cec43f2fc90f75ce",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "起信論直解.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f7e4c8c5c227d5bb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "929255b7145f6c58",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "起信論直解.md"
-              }
-            }
+        "id": "fb76cc4e774d8e95",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "3493a7848e8d9d3e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "起信論直解.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "5bb8a1f76bd5b0d6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "起信論直解.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8957b896aff77341",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "起信論直解.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "79af21f45eba443a",
+  "active": "bf78d161d1659efd",
   "lastOpenFiles": [
     "起信論直解.md",
     "愣伽经德清注.md",
     "金刚经解义.md",
-    "docs/index.md",
-    "释义/相續識.md",
+    "docs/大乘起信論略圖.jpg",
+    "docs/2021-12-14.md",
     "释义/業識.md",
-    "释义/智識.md",
     "释义/轉識.md",
+    "释义/智識.md",
     "释义/現識.md",
-    "圓覺經直解.md"
+    "未命名.md"
   ]
 }
