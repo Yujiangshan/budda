@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ce78addf435f78",
+        "id": "710bcf2c3aab3202",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -15,115 +15,130 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f2a58ff377a57d16",
-    "type": "mobile-drawer",
+    "id": "7dc4eba03acaffbf",
+    "type": "split",
     "children": [
       {
-        "id": "7c07cea0b710fe40",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "95371a0cc59e9731",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "f6c0cd4f072edfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d568e2b923c60b06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a472ae8789e90840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b94845f73807570b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "135295541b6a04d7",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "0e15df522e4427bf",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "60233276e1d020a5",
-    "type": "mobile-drawer",
+    "id": "9639ea50591d9b01",
+    "type": "split",
     "children": [
       {
-        "id": "6f9f180150d14589",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "ea31c3b4e2673005",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "f6a445f17c377663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba020dd5fb6421b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dd79a1cd4764130",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0e4e92fec40f3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c00757afd943bf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e46339318b63da1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "5dafdb60a66db7f0",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "3e087c93dadcd9ea",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b4ce78addf435f78",
+  "active": "710bcf2c3aab3202",
   "lastOpenFiles": [
+    "docs/2022-04-12.md",
+    "老子道德经解.md",
+    "金刚经解义.md",
+    "起信論直解.md",
     "六祖大師法寶壇經.md",
     "愣伽经德清注.md",
-    "起信論直解.md",
-    "金刚经解义.md",
     "docs/2022-02-17.md",
-    "老子道德经解.md",
     "docs/大乘起信論略圖.jpg",
     "docs/2021-12-14.md",
-    "释义/業識.md",
-    "释义/轉識.md"
+    "释义/業識.md"
   ]
 }
