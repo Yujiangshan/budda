@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "710bcf2c3aab3202",
+        "id": "1026a3b89451db9e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7dc4eba03acaffbf",
+    "id": "4c4764f7cc582776",
     "type": "split",
     "children": [
       {
-        "id": "f6c0cd4f072edfee",
+        "id": "30ea5806df2b0550",
         "type": "tabs",
         "children": [
           {
-            "id": "d568e2b923c60b06",
+            "id": "0244bd7b736f50a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "a472ae8789e90840",
+            "id": "71cafa96571366bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "b94845f73807570b",
+            "id": "d5e3d9d098299a0e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "9639ea50591d9b01",
+    "id": "cded06a6bb40aefc",
     "type": "split",
     "children": [
       {
-        "id": "f6a445f17c377663",
+        "id": "f295e3a43251f479",
         "type": "tabs",
         "children": [
           {
-            "id": "ba020dd5fb6421b1",
+            "id": "979ad631481f8a4c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "5dd79a1cd4764130",
+            "id": "51e58197789efb3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "8f0e4e92fec40f3e",
+            "id": "81be565718f1bfbe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "4c00757afd943bf9",
+            "id": "d79c79aa256a2c5e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "1e46339318b63da1",
+            "id": "f6fac923f71612ae",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "710bcf2c3aab3202",
+  "active": "0244bd7b736f50a7",
   "lastOpenFiles": [
-    "docs/2022-04-12.md",
+    "docs/2022-10-06.md",
+    "docs/2022-09-22.md",
+    "202209220830.md",
     "老子道德经解.md",
-    "金刚经解义.md",
-    "起信論直解.md",
     "六祖大師法寶壇經.md",
-    "愣伽经德清注.md",
-    "docs/2022-02-17.md",
-    "docs/大乘起信論略圖.jpg",
-    "docs/2021-12-14.md",
-    "释义/業識.md"
+    "金刚经解义.md",
+    "作文.md",
+    "docs/2022-08-03.md",
+    "起信論直解.md",
+    "愣伽经德清注.md"
   ]
 }

@@ -2,7 +2,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:set-heading",
@@ -15,12 +15,13 @@
     "editor:toggle-fold",
     "note-composer:split-file"
   ],
-  "attachmentFolderPath": "docs",
+  "attachmentFolderPath": "attachments",
   "communityPluginSortOrder": "download",
   "readableLineLength": false,
   "showFrontmatter": true,
   "defaultViewMode": "source",
   "legacyEditor": false,
   "livePreview": true,
-  "emacsyKeys": true
+  "emacsyKeys": true,
+  "newFileLocation": "current"
 }

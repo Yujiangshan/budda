@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "53ac0f793169b313",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e921f53d0b1032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79daf91ff59b9914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "老子道德经解.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c4764f7cc582776",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ea5806df2b0550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0244bd7b736f50a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71cafa96571366bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5e3d9d098299a0e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cded06a6bb40aefc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f295e3a43251f479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979ad631481f8a4c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "81be565718f1bfbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "老子道德经解.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d79c79aa256a2c5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6fac923f71612ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "老子道德经解.md"
+              }
+            }
+          },
+          {
+            "id": "e682c292edd99c9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "老子道德经解.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false,
+      "apple-books-highlights:Apple Books Sync Highlights": false
+    }
+  },
+  "active": "79daf91ff59b9914",
+  "lastOpenFiles": [
+    "Hightlights/时空之外.md",
+    "Hightlights/所有工具都是锤子（超级创客的自我修养！《流言终结者》制作人主持人创意工作手册。凯文·凯利盛赞的创意管理大师，从寻找灵感到贯彻执行，挖掘所有优秀创造者核心技能。自我管理、.md",
+    "Hightlights/X0542 般若心經直說.md",
+    "Hightlights/所有工具都是锤子（超级创客的自我修养！《流言终结者》制作人主持人创意工作手册。凯文·凯利盛赞的创意管理大师，从寻找灵感到贯彻执行，挖掘所有优秀创造者核心技能。自我管理、高效原则、重塑力、跨界合作……分享超级创客一生的经验与教训） (未读·思想家).md",
+    "Hightlights",
+    "绝笔.md",
+    "金刚经解义.md",
+    "老子道德经解.md",
+    "起信論直解.md",
+    "Ava - Getting Started.md",
+    "愣伽经德清注.md",
+    "大乘起信論略圖.jpg.md",
+    "大 悲咒.md",
+    "Canvas",
+    "Docs",
+    "docs/金刚决疑.md",
+    "未命名.canvas",
+    "圓覺經直解.md",
+    "六祖大師法寶壇經.md",
+    "docs/index.md",
+    "docs/大乘起信論略圖.jpg",
+    "释义/真心.md",
+    "释义/分別事識.md",
+    "释义/空如來藏.md",
+    "释义/三摩鉢提.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "docs/2022-11-26.md",
+    "docs/2023-01-02.md",
+    "释义/奢摩他.md"
+  ]
+}
